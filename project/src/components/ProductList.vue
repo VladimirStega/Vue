@@ -2,7 +2,7 @@
 <!-- eslint-disable vue/valid-template-root -->
 <template>
   <ul class="catalog__list">
-    <ProductItem v-for="(product, index) in products" :key="index" :products="products"/>
+    <ProductItem v-for="(product, index) in products" :key="index" :product="product"/>
   </ul>
 </template>
 
@@ -12,7 +12,7 @@ import ProductItem from './ProductItem.vue';
 
 export default {
   name: 'ProductList',
-  comments: { ProductItem },
+  components: { ProductItem },
   props: ['products'],
 };
 </script>

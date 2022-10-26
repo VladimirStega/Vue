@@ -5,6 +5,7 @@ export default [
     title: 'Радионяня Motorola MBP16',
     price: 3690,
     image: 'img/radio.jpg',
+    colorCode: ['#73B6EA', '#FFBE15'],
   },
   {
     id: 2,
@@ -12,6 +13,7 @@ export default [
     title: 'Ультразвуковая зубная щётка Playbrush Smart Sonic',
     price: 5660,
     image: 'img/toothbrush.jpg',
+    colorCode: ['#939393', '#8BE000'],
   },
   {
     id: 3,
@@ -19,6 +21,7 @@ export default [
     title: 'Смартфон Xiaomi Mi Mix 3 6/128GB',
     price: 21790,
     image: 'img/phone.jpg',
+    colorCode: ['#FF6B00', '#FFF'],
   },
   {
     id: 4,
@@ -26,6 +29,7 @@ export default [
     title: 'Электроскейт Razor Cruiser',
     price: 24690,
     image: 'img/board.jpg',
+    colorCode: ['#000', '#FFBE15'],
   },
   {
     id: 5,
@@ -33,6 +37,7 @@ export default [
     title: 'Смартфон Xiaomi Mi A3 4/64GB Android One',
     price: 14960,
     image: 'img/phone-2.jpg',
+    colorCode: ['#73B6EA', '#FFBE15', '#939393'],
   },
   {
     id: 6,
@@ -40,6 +45,7 @@ export default [
     title: 'Смартфон Xiaomi Redmi 6/128GB',
     price: 8960,
     image: 'img/phone-3.jpg',
+    colorCode: ['#73B6EA', '#FFBE15', '#939393'],
   },
   {
     id: 7,
@@ -47,6 +53,7 @@ export default [
     title: 'Электрический дрифт-карт Razor Crazy Cart',
     price: 39900,
     image: 'img/bicycle.jpg',
+    colorCode: ['#939393', '#8BE000', '#FF6B00'],
   },
   {
     id: 8,
@@ -54,6 +61,7 @@ export default [
     title: 'Гироскутер Razor Hovertrax 2.0',
     price: 34900,
     image: 'img/wheels.jpg',
+    colorCode: ['#000'],
   },
   {
     id: 9,
@@ -61,6 +69,7 @@ export default [
     title: 'Детский трюковой самокат Razor Grom',
     price: 4990,
     image: 'img/scooter.jpg',
+    colorCode: ['#FF6B00', '#FFF', '#FFBE15'],
   },
   {
     id: 10,
@@ -68,6 +77,7 @@ export default [
     title: 'Роллерсёрф Razor RipStik Air Pro',
     price: 6690,
     image: 'img/ripstik.jpg',
+    colorCode: ['#73B6EA'],
   },
   {
     id: 11,
@@ -75,6 +85,7 @@ export default [
     title: 'Наушники AirPods с беспроводным зарядным футляром',
     price: 16560,
     image: 'img/airpods.jpg',
+    colorCode: ['#000', '#FFBE15'],
   },
   {
     id: 12,
@@ -82,6 +93,7 @@ export default [
     title: 'Наушники Sony',
     price: 30690,
     image: 'img/headphones.jpg',
+    colorCode: ['#73B6EA', '#FFBE15'],
   },
   {
     id: 13,
@@ -89,6 +101,7 @@ export default [
     title: 'Фитнес-браслет Mi Smart Band 5',
     price: 2290,
     image: 'img/mi-smart-band.jpg',
+    colorCode: ['#FF6B00', '#FFF', '#000'],
   },
   {
     id: 14,
@@ -96,6 +109,7 @@ export default [
     title: 'Смарт-часы Galaxy Watch Active2',
     price: 22990,
     image: '/img/galaxy-watch.jpg',
+    colorCode: ['#73B6EA', '#FF6B00', '#FFF'],
   },
   {
     id: 15,
@@ -103,6 +117,7 @@ export default [
     title: 'Беззеркальный фотоаппарат Canon EOS R6 Body',
     price: 252290,
     image: 'img/canon.jpg',
+    colorCode: ['#FFBE15', '#939393', '#8BE000'],
   },
   {
     id: 16,
@@ -110,6 +125,7 @@ export default [
     title: 'Зеркальный фотоаппарат Nikon D5600 Kit 18-55 VR',
     price: 69590,
     image: 'img/nikon.jpg',
+    colorCode: ['#73B6EA', '#FFBE15'],
   },
   {
     id: 17,
@@ -117,6 +133,7 @@ export default [
     title: 'Микрофон для стриминга Quasar 2',
     price: 1990,
     image: 'img/mikrofon-quasar.jpg',
+    colorCode: ['#73B6EA', '#FFBE15', '#939393'],
   },
   {
     id: 18,
@@ -124,5 +141,6 @@ export default [
     title: 'Rode NT1-A',
     price: 18590,
     image: 'img/mikrofon-rode.jpg',
+    colorCode: ['#73B6EA', '#FFBE15', '#FFF'],
   },
 ];

@@ -27,4 +27,8 @@ export default [
     id: 7,
     title: 'Микрофоны',
   },
+  {
+    id: 8,
+    title: 'Аксессуары',
+  },
 ];
